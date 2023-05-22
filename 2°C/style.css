@@ -1,4 +1,16 @@
 header{
     background-color: powderblue;
     color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+cabeçalho-imagem{
+    width: 10%;
+}
+.cabeçalho_lista_item{
+    display: inline-block;
+    margin: 0% 16px;
+    font-size: 24px;
 }
