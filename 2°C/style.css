@@ -1,5 +1,5 @@
 header{
-    background-color: powderblue;
+    background-color: aquamarine;
     color: black;
     display: flex;
     justify-content: space-around;
@@ -8,6 +8,14 @@ header{
 }
 cabeçalho-imagem{
     width: 10%;
+}
+.escola { 
+    background-image: none
+    color 
+    display: flex;
+    justify-content: center;
+    align-itens: center;
+    podding: 24 px;
 }
 .cabeçalho_lista_item{
     display: inline-block;
