@@ -1,18 +1,18 @@
-    align-items: center;
-    padding: 24px 0;
+align-items: center;
+padding: 24px 0;
 }
 .cabeçalho-lista-item{
-    display: inline-block;
-    margin: 0% 16px;
+display: inline-block;
+margin: 0% 16px;
 font-size: 24px;
 }
 .escola{ 
-    background-image: linear-gradient(plum,white);
-    color:black;
-    display: flex
-    justify- contents
-    align-items: center;
-    padding: 24px 0;
+background-image: linear-gradient(rgb(12, 219, 219),white);
+color:black;
+display: flex
+justify- contents
+align-items: center;
+padding: 24px 0;
 }
 .escola-div-conteudo{
 width: 35%;
